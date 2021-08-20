@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: messageDrivenApplication
+kafka.bootstrap.servers: localhost:9092
